@@ -1,1 +1,5 @@
 # ZadaniaPython
+
+## Foldery
+
+- zadania
